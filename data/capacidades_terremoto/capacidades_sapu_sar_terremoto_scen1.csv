@@ -1,0 +1,28 @@
+;Id;codigo;Comuna;Nombre;Servicio Salud Asociado;Latitud;Longitud;Tipo;Horario;Ambulancias;Médicos;Enfermeras;Tecnicos;Admision;Sala Categorizacion;Box Reanimacion;Box Atencion;Box Observacion;Sala RX;Sala Tratamientos
+0;1;114303;La Florida;Bellavista;SSM Sur Oriente;-33.51820327;-70.60111071;SAPU;Corto;1;2;2;2;1;1;1;4;1;1;1
+1;2;114805;La Florida;Los Quillayes;SSM Sur Oriente;-33.5619451;-70.60510852;SAR;24H;1;3;3;3;1;1;1;1;4;2;2
+2;3;114816;La Florida;Dr Fernando Maffioletti;SSM Sur Oriente;-33.56013929;-70.57837221;SAPU;Corto;1;2;2;2;1;1;1;3;2;1;1
+3;4;200144;La Florida;Jose Alvo;SSM Sur Oriente;-33.55695918;-70.58216846;SAPU;Corto;1;2;2;2;1;1;1;7;7;1;1
+4;5;200051;La Florida;Trinidad;SSM Sur Oriente;-33.54652039;-70.60843577;SAPU;Corto;1;2;2;2;1;1;1;5;1;1;1
+5;6;114824;La Florida;Santa Amalia;SSM Sur Oriente;-33.54344931;-70.59273279;SAPU;Corto;1;3;3;3;1;1;1;2;1;1;1
+6;7;114804;La Florida;Villa OHiggins;SSM Sur Oriente;-33.53148343;-70.60440357;SAPU;Corto;1;1;1;1;1;1;1;1;1;1;1
+7;8;114831;La Florida;La Florida;SSM Sur Oriente;-33.51454673;-70.58557702;SAPU;Corto;1;2;2;2;1;1;1;2;1;1;1
+8;9;114802;La Florida;Los Castanos;SSM Sur Oriente;-33.51169278;-70.57812405;SAPU;24H;1;3;3;3;1;1;1;3;1;1;1
+9;10;114315;La Granja;Malaquias Concha;SSM Sur Oriente;-33.52742514;-70.62121096;SAPU;Corto;1;3;3;3;1;1;1;6;7;1;1
+10;11;114825;La Granja;Granja Sur;SSM Sur Oriente;-33.55140573;-70.6293943;SAPU;Corto;1;2;2;2;1;1;1;4;1;1;1
+11;12;114806;La Granja;La Granja;SSM Sur Oriente;-33.53676247;-70.63374799;SAPU;24H;1;3;3;3;1;1;1;6;1;1;2
+12;13;114811;La Pintana;Santiago de Nueva Extremadura;SSM Sur Oriente;-33.58854231;-70.61884286;SAR;24H;1;1;1;1;1;1;1;3;4;1;1
+13;14;114808;La Pintana;San Rafael;SSM Sur Oriente;-33.57916375;-70.63912438;SAPU;Corto;1;2;2;2;1;1;1;2;1;1;1
+14;15;114809;La Pintana;Pablo de Rokha;SSM Sur Oriente;-33.57654452;-70.64963352;SAPU;Corto;1;2;2;2;1;1;1;5;1;1;2
+15;16;114819;La Pintana;El Roble;SSM Sur Oriente;-33.5637489;-70.64760886;SAPU;Corto;1;2;2;2;1;1;1;4;1;1;1
+16;17;114817;La Pintana;Santo Tomas;SSM Sur Oriente;-33.55637405;-70.61607599;SAPU;Corto;1;2;2;2;1;1;1;3;1;1;1
+17;18;114313;Puente Alto;Vista Hermosa;SSM Sur Oriente;-33.61012461;-70.52457687;SAPU;Corto;1;2;2;2;1;1;2;2;1;1;1
+18;19;114821;Puente Alto;Cardenal Silva Henriquez de Puente Alto;SSM Sur Oriente;-33.62792821;-70.61651533;SAPU;Largo;1;1;1;1;1;1;1;7;1;1;1
+19;20;114826;Puente Alto;Karol Wojtyla;SSM Sur Oriente;-33.62606251;-70.6253387;SAPU;Largo;1;2;2;2;1;1;1;4;1;1;1
+20;21;114812;Puente Alto;San Geronimo;SSM Sur Oriente;-33.62334717;-70.58796559;SAPU;Largo;1;2;2;2;1;1;1;5;1;1;1
+21;22;114801;Puente Alto;Dr Alejandro del Rio;SSM Sur Oriente;-33.60711097;-70.57962389;SAPU;Largo;1;2;2;2;1;1;1;3;1;1;2
+22;23;114822;Puente Alto;Padre Manuel Villaseca;SSM Sur Oriente;-33.58599646;-70.5866749;SAPU;Largo;1;2;2;2;1;1;1;4;1;1;1
+23;24;114820;Puente Alto;Bernardo Leighton;SSM Sur Oriente;-33.58431642;-70.60430322;SAPU;Largo;1;3;3;3;1;1;1;3;2;1;2
+24;25;114828;San Ramon;Poetisa Gabriela Mistral;SSM Sur Oriente;-33.55211818;-70.64122977;SAPU;Corto;1;3;3;3;1;1;1;2;2;1;3
+25;26;114807;San Ramon;La Bandera;SSM Sur Oriente;-33.54500594;-70.64518611;SAR;24H;1;2;2;2;1;1;1;3;4;2;1
+26;27;-;San Ramon;Salvador Allende;SSM Sur Oriente;-33.53266852;-70.64204939;SAPU;Corto;1;2;2;2;1;1;1;6;1;1;2
